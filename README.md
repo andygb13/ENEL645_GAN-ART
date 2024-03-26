@@ -3,3 +3,5 @@
 
 ### Group Members: 
 ### Date Submitted:
+
+![Generated_images](./animation.gif)
